@@ -1,2 +1,3 @@
 # COSC_499_Individual
-Individual GitHub Exercise
+##Individual GitHub Exercise
+
