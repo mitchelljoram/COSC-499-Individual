@@ -12,7 +12,9 @@ The calculator.py file contains 4 functions. Each take two variables *num1* and 
 
 ## main.py
 The main.py file contains a main function that asks the user for an input of a simple calculation. The simple calculation syntax is as follows,
+
 *num1* *operation* *num2*
+
 Each piece of the syntax is serparated by a space (" ").
 
 Next, the function checks if the operator is valid (+, -, *, or /) or else it prints *"You entered an irregualr formula. Make sure the formula has a valid operator and is separated by a space between each part."* to tell the user they inputed their formula incorrectly. If the operator is valid, it will apply the appropriate operation onto the numbers by sending them to the appropriate function in the calculator.py file.
