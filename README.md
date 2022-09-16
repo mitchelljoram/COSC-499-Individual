@@ -13,7 +13,7 @@ The calculator.py file contains 4 functions. Each take two variables *num1* and 
 ## main.py
 The main.py file contains a main function that asks the user for an input of a simple calculation. The simple calculation syntax is as follows,
 
-*\*num1\** *operation* *num2*
+*\*num1\** *\*operation\** *\*num2\**
 
 Each piece of the syntax is serparated by a space (" ").
 
