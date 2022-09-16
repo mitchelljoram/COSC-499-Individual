@@ -17,4 +17,6 @@ The main.py file contains a main function that asks the user for an input of a s
 
 Each piece of the syntax is serparated by a space (" ").
 
-Next, the function checks if the operator is valid (+, -, *, or /) or else it prints *"You entered an irregualr formula. Make sure the formula has a valid operator and is separated by a space between each part."* to tell the user they inputed their formula incorrectly. If the operator is valid, it will apply the appropriate operation onto the numbers by sending them to the appropriate function in the calculator.py file.
+Next, the function checks if the operator is valid (+, -, *, or /) or else it prints *"You entered an irregualr formula. Make sure the formula has a valid operator."* to warn the user they inputed their formula incorrectly. If the operator is valid, it will apply the appropriate operation onto the numbers by sending them to the appropriate function in the calculator.py file and prints out the returned answer.
+
+If an error is catched, it will print *"You entered an irregualr formula. Make sure the formula has real numbers, a valid operator, and is separated by a space between each part."* to warn the user they inputed their formula incorrectly.
