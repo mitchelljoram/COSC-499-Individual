@@ -3,6 +3,7 @@ import calculator;
 def main():
     while(True):
         try:
+            print("Hello world!")
             formula = input("Input a simple calculation: ")
             formulaArray = formula.split()
             num1 = int(formulaArray[0])
